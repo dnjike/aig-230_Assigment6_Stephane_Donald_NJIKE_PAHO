@@ -1,0 +1,5 @@
+torch>=2.0.0
+nltk>=3.8
+numpy>=1.23
+matplotlib>=3.7
+jupyter>=1.0
